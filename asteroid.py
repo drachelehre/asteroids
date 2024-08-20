@@ -1,5 +1,4 @@
 from circleshape import *
-from constants import *
 
 
 class Asteroid(CircleShape):
